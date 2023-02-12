@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper Gökçe.</h1>
-<h3 align="center">I used to be a lawyer (until March 2022). I registered and graduated from Anadolu University Web Design and Coding Department. I was also a participant of the Game and Application Academy organized by Google Turkey.</h3>
+<h3 align="center">I'm an attorney at law. I registered and graduated from Anadolu University Web Design and Coding Department. I was also a participant of the Game and Application Academy organized by Google Turkey.</h3>
 
 - 🌱 I’m still diving into **Dart and Flutter.**
 
